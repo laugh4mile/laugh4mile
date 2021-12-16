@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=laugh4mile&show_icons=true&theme=radical)
+
 <!--
 **laugh4mile/laugh4mile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
