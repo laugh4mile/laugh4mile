@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align=center>
+<div>
   
 
 ## 🛠 T e c h 🛠
