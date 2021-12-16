@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning `Spring`, `JPA`, `Algorithm`
 - 🥇 I majored in Computer Engineering
 - 🚅 My hometown is Goyang, Gyeonggi-do in Korea
-<br><br><br>
+<br>
 
 ### Experience
 
