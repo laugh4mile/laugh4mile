@@ -17,7 +17,7 @@
 - 🎓 Sangmyung University , Computer Engineering (2014.03~ )
 - 🔥 Samsung SW Academy For Youth 4 th, Java Engineer (2020.07~2021.06)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=haesoo9410">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=laugh4mile">
 <br>
 
 ### Tech Stack
