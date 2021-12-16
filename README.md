@@ -5,7 +5,8 @@
 
   
 ### Who Am I
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=laugh4mile" height="165">
+
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=laugh4mile">
 
 - 🌱 I’m currently learning `Spring`, `JPA`, `Algorithm`
 - 🥇 I majored in Computer Engineering
@@ -17,8 +18,8 @@
 - 🎓 Sangmyung University , Computer Engineering (2014.03~ )
 - 🔥 Samsung SW Academy For Youth 4 th, Java Engineer (2020.07~2021.06)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=laugh4mile">
 <br>
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=laugh4mile" height="165">
 
 ### Tech Stack
 <p>
