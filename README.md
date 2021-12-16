@@ -11,14 +11,12 @@
 - 🌱 I’m currently learning `Spring`, `JPA`, `Algorithm`
 - 🥇 I majored in Computer Engineering
 - 🚅 My hometown is Goyang, Gyeonggi-do in Korea
-<br>
 
 ### Experience
 
 - 🎓 Sangmyung University , Computer Engineering (2014.03~ )
-- 🔥 Samsung SW Academy For Youth 4 th, Java Engineer (2020.07~2021.06)
+- 🔥 Samsung SW Academy For Youth 4 th, Java (2020.07~2021.06)
 
-<br>
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=laugh4mile" height="165">
 
 ### Tech Stack
