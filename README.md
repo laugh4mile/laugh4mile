@@ -29,16 +29,18 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a> &nbsp 
 </p>
 
-## 🛠 ETC 🛠
+### 🎈 ETC 🎈
   
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/></a> &nbsp
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a> &nbsp
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp 
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
+  <img src="https://img.shields.io/badge/React/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=black"/></a> &nbsp
+  
 </p>
 
-
+<br><br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flaugh4mile&count_bg=%236E7575&title_bg=%231C2024&icon=&icon_color=%23D4D4D4&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
